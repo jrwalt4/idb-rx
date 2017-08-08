@@ -1,0 +1,20 @@
+{
+  "name": "idb-rx",
+  "version": "0.0.0",
+  "description": "RxJS indexedDB wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrwalt4/idb-rx.git"
+  },
+  "keywords": [],
+  "author": "jrwalt4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrwalt4/idb-rx/issues"
+  },
+  "homepage": "https://github.com/jrwalt4/idb-rx#readme"
+}
