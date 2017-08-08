@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jrwalt4/idb-rx/issues"
   },
-  "homepage": "https://github.com/jrwalt4/idb-rx#readme"
+  "homepage": "https://github.com/jrwalt4/idb-rx#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  },
+  "peerDependencies": {
+    "rxjs": "^5.4.2"
+  }
 }
